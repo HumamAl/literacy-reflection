@@ -1,6 +1,6 @@
 A literacy reflection tool that handles voice transcription, AI-powered skill tagging, and FERPA-compliant data — that's a focused MVP with clear technical challenges.
 
-**Here's a working demo:** {VERCEL_URL}
+**Here's a working demo:** https://literacy-reflection.vercel.app
 
 The demo shows the full teacher workflow: student roster management, feedback entry with voice/typed input, AI classification of literacy skills and Bloom's taxonomy levels, and a dashboard with real-time analytics. The architecture uses a service layer so Google Classroom and Schoology integrations plug in cleanly later.
 
